@@ -9,3 +9,4 @@ Noobcash represents a straightforward cryptocurrency framework characterized by 
 
 
 
+
