@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="frontend/src/assets/logo.png" alt="Noobcash" width="auto"/>
+    <img src="frontend/src/assets/logo.png" alt="Noobcash" width="100"/>
     <br>
 <p>
 
